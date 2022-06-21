@@ -1,6 +1,6 @@
 # Holidaze Hotel Booking Website
 
-![image](https://github.com/Noroff-FEU-Assignments/project-exam-2-Hyggesen/blob/main/src/assets/common/holidaze_devices.png)
+![image](https://github.com/Hyggesen/holidaze/blob/main/src/assets/common/holidaze_devices.png)
 
 Login-details:
 
