@@ -39,7 +39,7 @@ To get started, follow these instructions:
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:/Noroff-FEU-Assignments/project-exam-2-Hyggesen.git
+git clone git@github.com:/Hyggesen/holidaze.git
 ```
 
 2. Install the dependencies:
